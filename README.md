@@ -198,7 +198,7 @@ erDiagram
 
 ### Diagrama
 <img width="1722" height="1194" alt="Screenshot 2026-05-12 at 00-33-47 DrawDB Free - Database Schema Editor" src="https://github.com/user-attachments/assets/0f71ce4b-e248-4b68-8b07-debfb6d5ea42" />
->! Screenshot tomada en https://github.com/EmilioGiordano/DBiewer
+> Screenshot tomada en https://github.com/EmilioGiordano/DBiewer
 
 ## Instalación
 
